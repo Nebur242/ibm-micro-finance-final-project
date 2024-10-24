@@ -13,7 +13,7 @@ You can use the script by following these steps:
 
 2. Navigate into the project directory:
     ```bash
-    cd simple-interest-calculator
+    cd ibm-micro-finance-final-project
     ```
 
 3. Run the script:
