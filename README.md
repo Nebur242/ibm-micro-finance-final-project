@@ -16,17 +16,21 @@ You can use the script by following these steps:
     cd ibm-micro-finance-final-project
     ```
 
-3. Run the script:
+3. Make the script executable:
     ```bash
-    # For example, in Python
-    python simple_interest.py
+    chmod +x simple-interest.sh
+    ```
+
+4. Run the script:
+    ```bash
+    ./simple-interest.sh
     ```
 
 ## Example
 
 ```bash
-Enter principal amount: 1000
-Enter rate of interest: 5
-Enter time period in years: 2
+Enter the principal amount: 1000
+Enter the rate of interest: 5
+Enter the time period in years: 2
 
-Simple Interest: 100.0
+Simple Interest: 100.00
