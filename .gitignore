@@ -1,0 +1,25 @@
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore backup and temporary files
+*.bak
+*.tmp
+*~
+*.swp
+
+# Ignore compiled binary files
+*.o
+*.out
+*.class
+
+# Ignore environment files
+.env
+
+# Ignore any archives
+*.zip
+*.tar.gz
+*.rar
